@@ -70,7 +70,7 @@ Cole o código do projeto dentro dele.
 
 ### 3️⃣ Execute no terminal
 ```bash
-node index.js
+node app.js
 ```
 
 ---
